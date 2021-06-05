@@ -1,4 +1,4 @@
-# The SOTA algorithm that we compared with SBP.
+# The SOTA algorithms that we compared with SBP.
 ## BRP
 
 T. Zhang, S. Jia, X. Cheng, B. Xu, Tuning Convolutional Spiking Neural Network with Biologically-plausible Reward Propagation. Arxiv cs.NE/2010.04434,  (2020).
